@@ -4,4 +4,3 @@ android
 
 android app.
 FOOD HUNTER!
-hahahaha
